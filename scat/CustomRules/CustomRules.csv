@@ -1,0 +1,3 @@
+# Rule Name, Scary Method
+Insecure Process Execution,Process.Start
+Insecure Redirect, Response.Redirect
